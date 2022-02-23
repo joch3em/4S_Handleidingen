@@ -1,9 +1,4 @@
 
-<footer>
-	© {{ __('misc.copyright') }}
-</footer>
-
-
 <!-- analytics code -->              
 <script type="text/javascript">
 
@@ -26,3 +21,6 @@
  } 
  
 </script>
+<footer class="bg-dark">
+  © {{ __('misc.copyright') }}
+</footer>
